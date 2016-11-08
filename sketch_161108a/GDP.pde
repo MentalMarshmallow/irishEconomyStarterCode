@@ -20,4 +20,5 @@ class GDP
     currency=row.getString(1);
     year=row.getInt(3);
     amount=row.getFloat(4);
+  }
 }
